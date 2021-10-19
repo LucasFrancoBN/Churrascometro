@@ -1,3 +1,3 @@
 # Churrascometro
  
-🚧 Projeto Churrascometro 🚀 em construção 🚧
+<h3 align="center"> 🚧 Projeto Churrascometro 🚀 em construção 🚧 </h3>
