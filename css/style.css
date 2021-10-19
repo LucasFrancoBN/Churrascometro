@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header{
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(247, 250, 69, 0.377);
+}
+
+#tih{
+    display: inline-block;
+    text-align: left;
+    font-size: 32px;
+}
+
+main{
+    padding: 30px;
+    overflow: hidden;
+}
+
+#family{
+    width: 1050px;
+}
+
+section{
+    background-color: rgba(247, 250, 69, 0.377);
+    max-width: 450px;
+    margin-right: 100px;
+    margin-top: 100px;
+    padding: 25px;
+    border-radius: 10px;
+    float: right;
+}
+
+.mb{
+    margin-bottom: 15px;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-color: rgba(0, 0, 0, 0.158);
+    border-width: 1px;
+}
+
+button{
+    padding: 8px;
+    background-color: grey;
+    color: white;
+    border-radius: 15px;
+    border: none;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+}
+
+.rds{
+    margin-left: 36px;
+}
+
+@media screen and (max-width:1700px){
+    #family{
+        width: 900px;
+    }
+
+    section{
+        max-width: 350px;
+    }
+}
+
+@media screen and (max-width:1490px) {
+    #family{
+        width: 800px;
+    }
+}
+
+@media screen and (max-width: 1390px){
+    #family {
+        display: block;
+        margin: auto;
+        width: 750px;
+    }
+
+    section{
+        margin: auto;
+        float: none;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    #tih{
+        font-size: 26px;
+    }
+
+    #family{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:600px) {
+    #tih{
+        font-size: 16px;
+    }
+}
