@@ -19,7 +19,7 @@
         <br><br>
        
  <h2> 📱 Responsivo </h2>
-    <img src="./assets/responsivo.png" alt="" style="height:500px">
+    <img src="./assets/reponsivo.png" alt="" style="height:500px">
         <br><br>
         
    <h2 id="GIFs"> 🎥 GIFs </h2>
