@@ -34,7 +34,7 @@
     <h2> 📝 Sobre o Projeto </h2> 
     <p> Esse projeto fará com que você e sua família tenham um churrasco com a quandtidade certa de carne e bebida. Ele leva em conta que um adulto consuma em média 400g de carne e beba 1,3 Litros de cerveja; leva em conta que uma criança consuma cerca de 200g de carne e 600ml de refrigerante; além disso, caso a duração do churrasco seja maior do que 5 horas, os valores irão aumentar automaticamente</p>
  
- <h3 align="center">Link do Projeto <a href="https://lucasfrancobn.github.io/Verificador-de-Idade/">CLIQUE AQUI</a></h3>
+ <h3 align="center">Link do Projeto <a href="https://lucasfrancobn.github.io/Churrascometro/">CLIQUE AQUI</a></h3>
 
 </div>
 <br>
