@@ -1,4 +1,4 @@
-<h1>Verificador de Idade</h1>
+<h1>Churrascômetro</h1>
 
 <!-- LINKS -->
 <div align="center">
